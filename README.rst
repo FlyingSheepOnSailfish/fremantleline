@@ -21,3 +21,4 @@ Sailfish
 .. image:: docs/images/sailfish-1.png
 
 .. image:: docs/images/sailfish-2.png
+
